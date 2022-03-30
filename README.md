@@ -1,6 +1,6 @@
 # Parts_Products_inventory
 
-Inventory program written in Java with scenebuilder for the GUI.
+Inventory program written in Java with scenebuilder for the GUI, and JavaFX.
 
 Project that was completed for school.
 
